@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Apron",
+        "category" : "Kitchenware",
+        "price" : "Ksh 700",
+        "imgSrc" : "images/Apron.jpg"
+    },
+    {
+        "name" : "Cutting Board",
+        "category" : "Utensils",
+        "price" : "Ksh 1050",
+        "imgSrc" : "images/Cuttingboard.jpg"
+    },
+    {
+        "name" : "Blender",
+        "category" : "Electronics",
+        "price" : "Ksh 2500",
+        "imgSrc" : "images/Blender.jpg"
+    },
+    {
+        "name" : "Frying pan",
+        "category" : "Cook ware",
+        "price" : "ksh 650",
+        "imgSrc" : "images/Fryingpans.jpg"
+    },
+    {
+        "name" : "Foods Jars",
+        "category" : "Utensils",
+        "price" : "Ksh 200@",
+        "imgSrc" : "images/FoodJars.jpg"
+    },
+    {
+        "name" : "Oven gloves",
+        "category" : "Kitchenware",
+        "price" : "Ksh 250",
+        "imgSrc" : "images/Ovengloves.jpg"
+    },
+    {
+        "name" : "Grater",
+        "category" : "Utensils",
+        "price" : "Ksh 210",
+        "imgSrc" : "images/Grater.jpg"
+    },
+    {
+        "name" : "Teapots",
+        "category" : "Utensils",
+        "price" : "Ksh 2500",
+        "imgSrc" : "images/Teapots.jpg"
+    },
+    {
+        "name" : "Strainer",
+        "category" : "Utensils",
+        "price" : "49.00",
+        "imgSrc" : "images/MetallargeStrainer.jpg"
+    },
+    {
+        "name" : "Cookwares",
+        "category" : "Utensils",
+        "price" : "Ksh 25000",
+        "imgSrc" : "images/Fullsetcookware.jpg"
+    },
+    {
+        "name" : "Peppermill",
+        "category" : "Kitchenware",
+        "price" : " Ksh 600",
+        "imgSrc" : "images/Peppermill.jpg"
+    },
+    {
+        "name" : "Spice Box",
+        "category" : "Kitchenware",
+        "price" : "Ksh 2000",
+        "imgSrc" : "images/Spicebox.jpg"
+    },
+    {
+        "name" : "Vegetable peeler",
+        "category" : "Utensils",
+        "price" : "Ksh 70",
+        "imgSrc" : "images/Vegetablepeeler.jpg"
+    },
+    {
+        "name" : "Measuring cups",
+        "category" : "Utensils",
+        "price" : "Ksh 70",
+        "imgSrc" : "images/MeasuringCup.jpg"
+    },
+    {
+        "name" : "Bread Basket",
+        "category" : "Kitchenware",
+        "price" : "Ksh 700",
+        "imgSrc" : "images/BreadBasket.jpg"
+    },
+    {
+        "name" : "Fruit Basket",
+        "category" : "Kitchen ware",
+        "price" : "Ksh 900",
+        "imgSrc" : "images/FruitBasket.jpg"
+    },
+    {
+        "name" : "Napkins",
+        "category" : "Kitchen ware",
+        "price" : "Ksh 800",
+        "imgSrc" : "images/KitchenNapkins.jpg"
+    },
+    {
+        "name" : "Refregirator",
+        "category" : "Electronics",
+        "price" : "Ksh 70000",
+        "imgSrc" : "images/Fridge.jpeg"
+    },
+    {
+        "name" : "Dishrack",
+        "category" : "Kitchen ware",
+        "price" : "Ksh 7000",
+        "imgSrc" : "images/Dishrack.jpg"
+    },
+    {
+        "name" : "Kitchen stool",
+        "category" : "Kitchen ware",
+        "price" : "Ksh 25000",
+        "imgSrc" : "images/images/KitchenStool.jpeg"
+    }
+]
