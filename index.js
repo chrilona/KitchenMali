@@ -1,5 +1,5 @@
 
-// variables and constants
+//constants
 const cartContainer = document.querySelector('.cart-container');
 const productList = document.querySelector('.product-list');
 const cartList = document.querySelector('.cart-list');
@@ -58,7 +58,7 @@ function loadJSON(){
                     <div class = "product-content">
                         <h3 class = "product-name">${product.name}</h3>
                         <span class = "product-category">${product.category}</span>
-                        <p class = "product-price">$${product.price}</p>
+                        <p class = "product-price">${product.price}</p>
                     </div>
                 </div>
             `;
